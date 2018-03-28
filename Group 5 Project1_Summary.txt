@@ -1,0 +1,24 @@
+Group 5 
+
+Project Title: Political Leanings, Health and Wealth of US Counties
+
+Members: 
+Jose, Victoria, Jing, Jeff
+
+Project Description Outline:
+
+By leveraging county-level data for demographic, socioeconomic and political party leanings (by votes) for the 2008, 2012, and 2016 general election cycles, we will analyze how political leanings may or may not be related to fundamental voter characteristics. This project will explore the basic characteristics of US voters and may challenge some of the most widely held generalizations held by supporters of either major political party. 
+
+Example Research Questions:
+1. Do voters of a certain education level tend to vote similarly at a "micro" county-level across the United States? 
+2. Is there any association across counties between other demographic and economic indicators and political leanings? 
+
+Data will be used across the 2008, 2012, and 2016 general election cycles.
+
+Datasets will include the county-level 2008, 2012 and 2016 total votes and those for Democrats, Republicans and "Other" candidates. Complementary Census.gov county-level data will inform categorization of votes by other characteristics.
+
+Overall Breakdown of Tasks:
+Collect and merge all relevant datasets into a single analysis DataFrame
+Examine election votes over 3 cycles by demographic and/or economic and other indicators
+Generate visualizations of particular note
+Summarize key findings and develop presentation of methods, results and analysis
